@@ -1,0 +1,82 @@
+parseJSON([
+	{
+		"msg": "Hey team, need some help resolving an imaging debate on the inpatient service. Chris thinks it&apos;s white and gold, but it&apos;s clearly black and blue, right??",
+		"user": "BC",
+		"dir": "L"
+	},
+	{
+		"msg": "Sorry Brett, got to go with Chris on this one.",
+		"user": "SM",
+		"dir": "R"
+	},
+	{
+		"msg": "Tight.",
+		"user": "CF",
+		"dir": "L"
+	},
+	{
+		"msg": "What?!? Are you crazy???? That&apos;s completely false.",
+		"user": "BC",
+		"dir": "R"
+	},
+	{
+		"msg": "This is very interesting. A recent subgroup analysis of the ASS-HAT trial showed that in 20% of these cases, it is actually neither white/gold nor black/blue, but rather beige throughout.",
+		"user": "MM",
+		"dir": "L"
+	},
+	{
+		"msg": "If only we had an ultrasound of the fabric, I could prove to you that it&apos;s black and blue.",
+		"user": "BC",
+		"dir": "R"
+	},
+	{
+		"msg": "Ultrasound will only tell us whether it is cotton or wool. We really need a contrast-enhanced study.",
+		"user": "SM",
+		"dir": "L"
+	},
+	{
+		"msg": "I really think we&apos;re spinning our wheels with all this non-invasive imaging. I would have directly admitted this dress for emergent fabric biopsy last week.",
+		"user": "MM",
+		"dir": "R"
+	},	
+	{
+		"msg": "I don&apos;t understand the point of this argument. The real question is, why is this dress even in the hospital?",
+		"user": "SK",
+		"dir": "L"
+	},
+	{
+		"msg": "Fair enough Scott, how would you treat this?",
+		"user": "SM",
+		"dir": "R"
+	},
+	{
+		"msg": "Any generic detergent would do.",
+		"user": "SK",
+		"dir": "L"
+	},
+	{
+		"msg": "REALLY?! You gotta give this dress a chance! I would do TIDE PLUS Oxyclean.",
+		"user": "SM",
+		"dir": "R"
+	},
+	{
+		"msg": "No way man, twice daily dry cleaners is the only way to go on this one.",
+		"user": "BC",
+		"dir": "L"
+	},
+	{
+		"msg": "See, I think this is a situation where we really can&apos;t afford to hold back on the bleach.",
+		"user": "MM",
+		"dir": "R"
+	},
+	{
+		"msg": "Does any of this even matter? All dresses fade anyway. I&apos;d give nothing but hugs and ice cream all the way. After doing some arterial spin labeling on that sucker, of course!",
+		"user": "JD",
+		"dir": "L"
+	},
+	{
+		"msg": "You guys, enough of this nonsense. One word: melanopsin.",
+		"user": "GKA",
+		"dir": "R"
+	},
+])
